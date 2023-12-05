@@ -10,9 +10,10 @@ function App() {
     <div className="App">
       <Header />
       <Banners />
+      <h2>Акции</h2>
       <Goods />
       
-    <h1>Контакты</h1>
+    <h2>Контакты</h2>
     <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ae80330bc1cf33cb44cda13275a4659e1b09885fc7110940211f3fa1f69b0664b&amp;source=constructor" width="649" height="416" frameborder="0"></iframe>
       <Footer />
     </div>
